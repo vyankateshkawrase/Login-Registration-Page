@@ -1,0 +1,44 @@
+.login{
+    color: #1A1A1A;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 100px;
+padding-left: 25%;
+}
+
+.loginlogo{
+    width: 450px;
+    height: 500px;
+    flex-shrink: 0;
+    margin-right: 50px;
+    /* background: url(/Icon/login1.png), lightgray 50% / cover no-repeat; */
+}
+
+.rightside{
+    background: #AFB3FF;
+    width: 438px;
+height: 720px;
+flex-shrink: 0;
+margin-left: 0%;
+margin-bottom: 50%;
+}
+
+.leftside{
+    width: 500px;
+height: 720px;
+background: #EBEFFF;
+margin-left: 170px;
+}
+
+.uname{
+    color: #000;
+
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

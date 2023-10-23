@@ -1,0 +1,57 @@
+.Col12Left{
+    background-color: rgba(137, 134, 131, 0.163);
+    border-radius: 20px;
+    height: 600px;
+    margin-top: 20px;
+    padding-left: 150px;
+}
+
+/* @media only screen and (max-width:420px){
+    .Col12Left{
+        width: 200px;
+    }
+} */
+
+.login{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+.uname{
+    margin-bottom: 10px;
+}
+
+.pass{
+    margin-bottom: 10px;
+}
+
+.UInput{
+    border-radius: 20px;
+    border: 1px;
+    width: 50%;
+    height: 6%;
+    margin-bottom: 10px;
+}
+
+.PInput{
+    border-radius: 20px;
+    border: 1px;
+    width: 50%;
+    height: 6%;
+    margin-bottom: 10px;
+}
+
+.loginbtn {
+    border: none;
+    color: rgb(10, 3, 3);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
