@@ -1,3 +1,12 @@
+.bmain{
+    
+}
+
+@media only screen and (max-width:420px){
+    .bmain{
+        width: 50%;
+    }
+}
 .imgother07 {
     padding-top: 2%;
     width: 536px;
@@ -86,17 +95,17 @@
 
 
 @media (max-width: 400px) {
-    .container {
+    /* .container {
         width: 100%;
-    }
+    } */
     
-    .row {
+    /* .row {
         flex-direction: column;
     }
     
     .col-md-6 {
         width: 100%;
-    }
+    } */
 }
 
 /* .imgother07 {
