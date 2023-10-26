@@ -1,0 +1,79 @@
+.leftside {
+    width: 1280px;
+    height: 720px;
+    background: #EBEFFF;
+}
+
+.lpage {
+    color: #1A1A1A;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.username {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 80px;
+    margin-bottom: 10px;
+}
+
+.userinput {
+    width: 367px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    border: 1px solid #656ED3;
+    background: rgba(175, 179, 255, 0.00);
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
+.password {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 80px;
+    margin-bottom: 10px;
+}
+
+.passinput {
+    width: 367px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    border: 1px solid #656ED3;
+    background: rgba(175, 179, 255, 0.00);
+    margin-left: 80px;
+    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.btnlogin {
+    width: 365px;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #656ED3;
+    margin-left: 80px;
+    color: #AFB3FF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.regis {
+    margin-left: 150px;
+}

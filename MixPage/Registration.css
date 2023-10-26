@@ -1,0 +1,107 @@
+.imgother07 {
+    padding-top: 5%;
+    width: 536px;
+    height: 492px;
+    flex-shrink: 0;
+    /* margin-left: 0%; */
+}
+
+.rpage {
+    color: #1A1A1A;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 20px;
+    margin-left: 50px;
+    /* margin-right: 250px; */
+}
+
+.labelfi {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 50px;
+}
+
+.inputtext {
+    width: 50%;
+    height: 34px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    border: 1px solid #656ED3;
+    background: rgba(175, 179, 255, 0.00);
+    margin-top: 10px;
+    margin-left: 7%;
+}
+
+.backgr {
+    margin-bottom: 50px;
+}
+
+.btnsubmit {
+    border-radius: 20px 0%;
+    background: #656ED3;
+    color: antiquewhite;
+    height: 6%;
+    width: 50%;
+    margin-left: 45px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.typo {
+    color: #000;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-left: 17%;
+    padding-top: 1%;
+}
+
+.footgr {
+    height: 50px;
+    width: 100%;
+}
+
+/* @media (max-width: 768px) {
+    .footgr {
+        background-color: #333;
+    }
+} */
+
+
+@media (max-width: 400px) {
+    .container {
+        width: 100%;
+    }
+    
+    .row {
+        flex-direction: column;
+    }
+    
+    .col-md-6 {
+        width: 100%;
+    }
+}
+
+.imgother07 {
+    padding-top: 5%;
+    width: 536px;
+    height: 492px;
+    flex-shrink: 0;
+}
