@@ -56,33 +56,6 @@
             </div>
         </div>
     </div>
-    <!-- <script>
-        function validateForm() {
-            var fullName = document.getElementById("fullName").value;
-            console.log("Full Name: " + fullName);
-            var aadharId = document.getElementById("aadharId").value;
-            console.log("Full Name: " + aadharId);
-            var email = document.getElementById("email").value;
-            console.log("Full Name: " + email);
-            var password = document.getElementById("password").value;
-            console.log("Full Name: " + password);
-            var dob = document.getElementById("dob").value;
-            console.log("Full Name: " + dob);
-            var address = document.getElementById("address").value;
-            console.log("Full Name: " + address);
-            // var submitButton = document.getElementById("submitButton").;
-
-            var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
-
-            if (fullName === "" || aadharId === "" || email === "" || password === "" || dob === "" || address === "" || !email.match(emailPattern)) {
-                submitButton.disabled = true;
-                console.log("Form validation failed. Please fill in all required fields.");
-            } else {
-                submitButton.disabled = false;
-                console.log("Form validation passed. Submitting form...");
-            }
-        }
-    </script> -->
     <script>
         const registrationForm = document.getElementById("registrationForm");
         registrationForm.addEventListener("submit", function (e) {
